@@ -10,6 +10,16 @@
   font-weight: 700;
 }
 
+#title-span::before {
+  color: blue;
+  content: "Discovery";
+}
+
+#title-span::after {
+  color: red;
+  content: "Discovery";
+}
+
 .pro-date {
   float: right;
   margin-right: 20px;
@@ -20,3 +30,4 @@
     max-width: 100%;
   }
 }
+
