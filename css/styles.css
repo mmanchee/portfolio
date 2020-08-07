@@ -3,18 +3,12 @@
   height: auto;
   float: right;
   border-radius: 50%;
-  animation-name: flip;
-  animation-duration: 1s;
 }
 
-#title-span {
+#curiosity {
   font-family: 'Courier New', Courier, monospace;
   font-weight: 700;
-  animation-name: flip;
-  animation-duration: 1s;
 }
-
-
 
 .pro-date {
   float: right;
@@ -27,7 +21,3 @@
   }
 }
 
-@keyframes flip{
-  from{ t ; }
-  to{ transform: translate(20px) }
-}
