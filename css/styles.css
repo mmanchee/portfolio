@@ -1,7 +1,13 @@
 #profile-img {
   width: 150px;
   height: auto;
+  float: right;
   border-radius: 50%;
+}
+
+#title-span {
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 700;
 }
 
 .pro-date {
