@@ -72,6 +72,11 @@ a:hover {
   color: black;
 }
 
+span {
+  color: darkblue;
+  font-weight: 600;
+}
+
 @media (min-width: 1200px) {
   .container, .container-sm, .container-md, .container-lg, .container-xl {
     max-width: 100%;
