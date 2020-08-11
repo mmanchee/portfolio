@@ -9,6 +9,7 @@ Week 1 - Created a profile landing page for my portfolio.
 * Includes: profile, about me, and GitHub links
 
 ### Setup
+- [Click Here](https://mmanchee.github.io/portfolio/) to view page.
  - Load in browser and view.
  - Have fun with all my projects.
 
